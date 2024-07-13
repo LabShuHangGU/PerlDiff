@@ -15,13 +15,14 @@ This repository is the official PyTorch implementation of PerlDiff: Controllable
 
 
 <p align="center">
+<img src="assert/img/intro.png" width="1080px"/>  
+<br>
+</p>
+
+<p align="center">
 <img src="assert/img/perldiff.png" width="1080px"/>  
 <br>
 <em>PerlDiff utilizes perspective layout masking maps derived from BEV annotations to integrate scene information and object bounding boxes for multi view street scene generation</em>
-</p>
-<p align="center">
-<img src="assert/img/intro.png" width="1080px"/>  
-<br>
 </p>
 
 ## News
