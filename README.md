@@ -11,6 +11,8 @@ This repository is the official PyTorch implementation of PerlDiff: Controllable
 
 [![Project Website](https://img.shields.io/badge/Project-Website-orange)](https://perldiff.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-2407.06109-b31b1b.svg)](https://arxiv.org/pdf/2407.06109)
+[![GitHub Stars](https://img.shields.io/github/stars/LabShuHangGU/PerlDiff?style=social)](https://github.com/LabShuHangGU/PerlDiff)
+
 
 <p align="center">
 <img src="assert/img/perldiff.png" width="1080px"/>  
